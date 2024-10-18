@@ -1,0 +1,45 @@
+name: puntoventa
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.5.0
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+  flutter_barcode_scanner: ^2.0.0
+  http: ^1.2.2
+  pdf: ^3.11.1
+  printing: ^5.13.3
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+ uses-material-design: true
+ assets:
+    - lib/assets/inicio.png
+    - lib/assets/icons8-categorias-100.png
+    - lib/assets/nuevaVenta.png
+    - lib/assets/perfil.png
+    - lib/assets/ventas.png
+    - lib/assets/productos.png
+  
+fonts:
+    - family: Roboto
+      fonts:
+        - asset: lib/assetss/fonts/Roboto-Regular.ttf
+        - asset: lib/assetss/fonts/Roboto-Bold.ttf
+          weight: 700

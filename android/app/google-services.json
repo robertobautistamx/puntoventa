@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838926385659",
+    "project_id": "punto-venta-5b28e",
+    "storage_bucket": "punto-venta-5b28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838926385659:android:9edd28a04baea7ef6e8b5e",
+        "android_client_info": {
+          "package_name": "com.example.puntoventa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838926385659-vupr70sa42s06v3kus2ts3bjgtbmm86c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ijtL-zjqhwBkpfrjAyQMXyvRL4Lny3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838926385659-vupr70sa42s06v3kus2ts3bjgtbmm86c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
